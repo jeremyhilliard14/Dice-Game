@@ -6,7 +6,6 @@ body{
 .header {
 	text-align: center;
 	clear: both;
-
 }
 
 h1{
@@ -21,9 +20,6 @@ h1{
 	font-size: 20px;
 }
 
-.class input[type"button"]{
-
-}
 #the-fight{
 	float: left;
 	width: 10%;
@@ -52,7 +48,6 @@ button{
 	float: left;
 	width: 40%;
 	display: inline-block;
-
 }
 
 img{
@@ -67,10 +62,10 @@ img{
 
 #flee{
 	display: none;
-
 }
 
 .flight p{
 	margin-bottom: 10px;
 }
+
 
